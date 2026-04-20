@@ -1,5 +1,5 @@
 # 🛠 Engineering the Future
-I'm a 3rd-year student focused on **Data Structures and Algorithms and developing new things**. I enjoy optimizing algorithms and building scalable architectures.
+I'm a 2nd-year student focused on **Data Structures and Algorithms and developing new things**. I enjoy optimizing algorithms and building scalable architectures.
 
 ### 🔭 What I'm up to:
 * **Learning:** Key concepts of alorithms..
